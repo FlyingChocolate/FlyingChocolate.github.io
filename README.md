@@ -1,3 +1,7 @@
+$$
+\vec(F)=m\vec(a)
+$$
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/FlyingChocolate/FlyingChocolate.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
