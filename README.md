@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## 目录
 
-[Test](https://github.com/FlyingChocolate/FlyingChocolate.github.io/Test/T1.md)
+[Test](https://FlyingChocolate.github.io/Test/T1.md)
 
 ### Markdown
 
