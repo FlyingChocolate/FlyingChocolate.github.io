@@ -1,7 +1,7 @@
-Test 1
+Test 2
 
 $$
-\vec(F)=m\vec(a)
+\int \frac{1}{1+x^{2}}\mathrm{d}x= \arctan x +C 
 $$
 
 ## Welcome to GitHub Pages
