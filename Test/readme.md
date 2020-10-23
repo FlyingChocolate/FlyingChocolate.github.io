@@ -138,7 +138,7 @@ Markdown converts text to HTML.
 
 公式编辑器
 -
-$$\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.$$
+$\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.$
 
 > Jkkoi整理自网络
 
