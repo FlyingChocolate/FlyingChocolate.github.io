@@ -276,4 +276,5 @@ LaTeX
 $$
 \vec{F}=m\vec{a}
 $$
+
 $e=mc^2$
